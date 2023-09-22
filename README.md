@@ -80,3 +80,5 @@
 # delete pod for testing
 # inbound traffic forward to haproxy and reroute to mongo pod
 
+![image](https://github.com/luutrungnguyen/mongodb_replica/assets/89311737/b74f5c51-c2df-4e13-9829-24bba05bd1c6)
+
