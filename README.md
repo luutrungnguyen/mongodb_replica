@@ -78,4 +78,5 @@
     targetPort: stat
 
 # delete pod for testing
+# inbound traffic forward to haproxy and reroute to mongo pod
 
